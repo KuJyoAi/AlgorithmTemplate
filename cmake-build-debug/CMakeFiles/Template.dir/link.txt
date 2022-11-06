@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Template.dir/main.cpp.o CMakeFiles/Template.dir/Tree/SegmentTree.cpp.o CMakeFiles/Template.dir/LinerList/Stack.cpp.o CMakeFiles/Template.dir/LinerList/Queue.cpp.o CMakeFiles/Template.dir/LinerList/Vector.cpp.o -o Template 

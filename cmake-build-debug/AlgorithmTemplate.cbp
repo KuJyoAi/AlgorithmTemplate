@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="AlgorithmTemplate"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AlgorithmTemplate">
+				<Option output="/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/AlgorithmTemplate" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/backward"/>
+					<Add directory="/usr/lib/llvm-14/lib/clang/14.0.6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 AlgorithmTemplate"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AlgorithmTemplate/fast">
+				<Option output="/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/AlgorithmTemplate" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/backward"/>
+					<Add directory="/usr/lib/llvm-14/lib/clang/14.0.6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 AlgorithmTemplate/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/e/Code/CPP/AlgorithmTemplate/Graph/GraphAdjacencyList.cpp">
+			<Option target="AlgorithmTemplate"/>
+		</Unit>
+		<Unit filename="/mnt/e/Code/CPP/AlgorithmTemplate/Graph/GraphAdjacencyList.h">
+			<Option target="AlgorithmTemplate"/>
+		</Unit>
+		<Unit filename="/mnt/e/Code/CPP/AlgorithmTemplate/Graph/GraphMatrix.cpp">
+			<Option target="AlgorithmTemplate"/>
+		</Unit>
+		<Unit filename="/mnt/e/Code/CPP/AlgorithmTemplate/Graph/GraphMatrix.h">
+			<Option target="AlgorithmTemplate"/>
+		</Unit>
+		<Unit filename="/mnt/e/Code/CPP/AlgorithmTemplate/Graph/GraphOrthogonalList.cpp">
+			<Option target="AlgorithmTemplate"/>
+		</Unit>
+		<Unit filename="/mnt/e/Code/CPP/AlgorithmTemplate/Graph/GraphOrthogonalList.h">
+			<Option target="AlgorithmTemplate"/>
+		</Unit>
+		<Unit filename="/mnt/e/Code/CPP/AlgorithmTemplate/LinerList/Queue.cpp">
+			<Option target="AlgorithmTemplate"/>
+		</Unit>
+		<Unit filename="/mnt/e/Code/CPP/AlgorithmTemplate/LinerList/Queue.h">
+			<Option target="AlgorithmTemplate"/>
+		</Unit>
+		<Unit filename="/mnt/e/Code/CPP/AlgorithmTemplate/LinerList/Stack.cpp">
+			<Option target="AlgorithmTemplate"/>
+		</Unit>
+		<Unit filename="/mnt/e/Code/CPP/AlgorithmTemplate/LinerList/Stack.h">
+			<Option target="AlgorithmTemplate"/>
+		</Unit>
+		<Unit filename="/mnt/e/Code/CPP/AlgorithmTemplate/LinerList/Vector.cpp">
+			<Option target="AlgorithmTemplate"/>
+		</Unit>
+		<Unit filename="/mnt/e/Code/CPP/AlgorithmTemplate/LinerList/Vector.h">
+			<Option target="AlgorithmTemplate"/>
+		</Unit>
+		<Unit filename="/mnt/e/Code/CPP/AlgorithmTemplate/Tree/SegmentTree.cpp">
+			<Option target="AlgorithmTemplate"/>
+		</Unit>
+		<Unit filename="/mnt/e/Code/CPP/AlgorithmTemplate/Tree/SegmentTree.h">
+			<Option target="AlgorithmTemplate"/>
+		</Unit>
+		<Unit filename="/mnt/e/Code/CPP/AlgorithmTemplate/main.cpp">
+			<Option target="AlgorithmTemplate"/>
+		</Unit>
+		<Unit filename="/mnt/e/Code/CPP/AlgorithmTemplate/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

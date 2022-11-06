@@ -1,0 +1,3 @@
+/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/CMakeFiles/AlgorithmTemplate.dir
+/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/e/Code/CPP/AlgorithmTemplate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
